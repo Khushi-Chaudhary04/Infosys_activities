@@ -12,14 +12,14 @@ This is a simple Flask web application that allows users to register and log in 
 2. **Registration Success:**  
    After entering valid details, the user is successfully registered.
 
-   ![Registered Successfully](link-to-your-image-2)
+   ![Registered Successfully](https://github.com/Khushi-Chaudhary04/Infosys_activities/blob/main/images/WhatsApp%20Image%202024-12-10%20at%2018.24.50.jpeg?raw=true)
 
 3. **Logged In:**  
    Once logged in, the application greets the user with a welcome message.
 
-   ![Hello Logged In](link-to-your-image-3)
+   ![Hello Logged In](https://github.com/Khushi-Chaudhary04/Infosys_activities/blob/main/images/WhatsApp%20Image%202024-12-10%20at%2018.27.19.jpeg?raw=true)
 
 4. **Database Screenshot:**  
    The MongoDB database stores user information like usernames and passwords.
 
-   ![Database Screenshot](link-to-your-image-4)
+   ![Database Screenshot](https://github.com/Khushi-Chaudhary04/Infosys_activities/blob/main/images/WhatsApp%20Image%202024-12-10%20at%2018.27.44.jpeg?raw=true)
